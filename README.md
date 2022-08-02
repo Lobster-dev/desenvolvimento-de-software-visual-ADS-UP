@@ -3,7 +3,7 @@
 
 #Linguagens
 <div>
-C#
+C# 5.0
 <br> 
 Angular
 </div>
