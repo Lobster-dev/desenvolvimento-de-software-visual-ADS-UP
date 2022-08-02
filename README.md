@@ -1,7 +1,7 @@
 # desenvolvimento-de-software-visual-ADS-UP
 
 
-#Linguagens
+## Linguagens
 <div>
 C# 5.0
 <br> 
@@ -9,7 +9,7 @@ Angular
 </div>
 
 
-#Requisitos
+## Requisitos
 <div>
 Node (npm)
 .net 
