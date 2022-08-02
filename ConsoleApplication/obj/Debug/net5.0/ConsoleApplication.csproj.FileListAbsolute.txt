@@ -1,0 +1,16 @@
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.exe
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.deps.json
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.json
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.dll
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ref\ConsoleApplication.dll
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.pdb
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.dll
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ref\ConsoleApplication.dll
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.pdb
+C:\Users\06421558950\Aula-02-08\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.genruntimeconfig.cache
