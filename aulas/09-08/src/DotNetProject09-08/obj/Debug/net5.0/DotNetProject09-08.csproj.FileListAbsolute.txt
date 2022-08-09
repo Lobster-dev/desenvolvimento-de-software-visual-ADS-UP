@@ -1,0 +1,16 @@
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.csproj.AssemblyReference.cache
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.AssemblyInfoInputs.cache
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.AssemblyInfo.cs
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.csproj.CoreCompileInputs.cache
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.exe
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.deps.json
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.runtimeconfig.json
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.runtimeconfig.dev.json
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.dll
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\ref\DotNetProject09-08.dll
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\bin\Debug\net5.0\DotNetProject09-08.pdb
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.dll
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\ref\DotNetProject09-08.dll
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.pdb
+C:\Users\06421558950\Aula-02-08\aulas\09-08\src\DotNetProject09-08\obj\Debug\net5.0\DotNetProject09-08.genruntimeconfig.cache
