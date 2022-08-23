@@ -1,0 +1,9 @@
+
+###solicitando previsão do tempo
+
+GET https://localhost:5001/WeatherForecast
+
+### Pra ter 2 testes no mesmo arquivo é necessario a utilização de comentarios
+
+GET https://localhost:5001/api/v1/usuario/listar
+
