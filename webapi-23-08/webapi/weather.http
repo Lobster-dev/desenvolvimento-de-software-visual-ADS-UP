@@ -1,0 +1,25 @@
+
+### Solicitando previsão do tempo
+
+GET https://localhost:5001/WeatherForecast
+
+### Pra ter 2 testes no mesmo arquivo é necessario a utilização de comentarios
+
+GET https://localhost:5001/api/v1/usuario/listar
+
+### Criando usuario
+POST https://localhost:5001/api/v1/usuario/create
+Content-Type: application/json
+
+{
+    "email":"email_usuario@gmail.com",
+    "senha":"senha_exemplo"
+}
+
+### Pegando um usuario especifico
+GET https://localhost:5001/api/v1/usuario/find/email_usuario@gmail.com
+
+
+
+### Removendo usuario
+POST https://localhost:5001/api/v1/usuario/delete

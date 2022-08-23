@@ -1,0 +1,15 @@
+{
+    "email":"email_usuario@gmail.com",
+    "senha":"senha_exemplo",
+    "acessos":30,
+    "avaliacao":4.9,
+    "ativo":true,
+    "permissoes":[
+        {
+
+        },
+        {
+            
+        }
+    ]
+}
